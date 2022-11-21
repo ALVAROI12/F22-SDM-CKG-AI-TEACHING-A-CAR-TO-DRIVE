@@ -1,7 +1,7 @@
-# How_to_simulate_a_self_driving_car
+# How_to_simulate_a_self_driving_car UIW FALL 2022
 This is the code for "How to Simulate a Self-Driving Car" by Siraj Raval on Youtube
 
-# This video will be released on Wednesday, May 17th at 10 AM PST. This code is a work in progress.
+# We used this video from youtube to help us deploy the simulator.
 
 ## Overview
 
